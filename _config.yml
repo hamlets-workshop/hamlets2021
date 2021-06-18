@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: HAMLETS 2020
+name: HAMLETS 2021
 email:
 description: > # this means to ignore newlines until "url:"
   A Venue for human-in-the-loop machine learning.
@@ -10,7 +10,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  # the base hostname & protocol for your site
+url: https://hamlets-workshop.github.io/2021
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
